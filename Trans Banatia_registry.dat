@@ -1,0 +1,21 @@
+{
+  chimeSounds = {
+    [ "Timisoara Nord" ] = "ode_to_joy.wav",
+  },
+  companyList = {
+    [ "Trans Banatia" ] = true,
+  },
+  trainList = {
+    [ "B-052" ] = true,
+    [ "B-067" ] = true,
+  },
+  stationList = {
+    [ "Timisoara Nord" ] = true,
+  },
+  trainCompanies = {
+    [ "B-052" ] = "Trans Banatia",
+    [ "B-067" ] = "Trans Banatia",
+  },
+  nativeLanguages = {
+  }
+}
